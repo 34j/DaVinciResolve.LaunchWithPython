@@ -1,6 +1,6 @@
-# Launch DaVinci Resolve with Python
+# Launch DaVinci Resolve with Python Support
 
-This project will make it easier to use Python in Davinci Resolve, using venv. Has not been tested even by the author and may not work.
+This project will make it easier to run Python codes in Davinci Resolve, using venv. Has not been tested even by the author and may not work.
 
 ## Requirements
 
