@@ -29,7 +29,7 @@ launch
 ### How To Use Python 3 in DaVinci Resolve
 
 1. Install the latest python from [python.org](https://www.python.org/). Supposedly, DaVinci Resolve 18 can use any version of Python above 3.6.
-2. Add `%LOCALAPPDATA%\Programs\Python\Python3*\` (e.g. `%LOCALAPPDATA%\Programs\Python\Python3*\`) to PATH.
+2. Add `%LOCALAPPDATA%\Programs\Python\Python3*\` (e.g. `%LOCALAPPDATA%\Programs\Python\Python310\`) to PATH.
 
 ### For those installed Python 3 from Windows Store and encountering Python 3 Not Found errors in DaVinci Resolve
 
